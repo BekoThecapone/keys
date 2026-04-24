@@ -1,14 +1,2 @@
-{
-  "users": [
-    {
-      "key": "ajanber",
-      "hwid": "{30358700-3a5c-11f1-af43-806e6f6e6963}",
-      "status": "active"
-    },
-    {
-      "key": "DENEME-KEY-999",
-      "hwid": "ARKADASININ-HWID-IDSI",
-      "status": "active"
-    }
-  ]
-}
+ajanber:{30358700-3a5c-11f1-af43-806e6e6f6e6963}:2027:01:01:00:00
+DENEME-KEY-999:ARKADASININ-HWID-IDSI:2027:01:01:00:00
