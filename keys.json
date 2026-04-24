@@ -1,14 +1,14 @@
 {
-  "keys": [
-    "ajanber"
+  "users": [
+    {
+      "key": "ajanber",
+      "hwid": "0000_0000_0000_0000_8CE3_8E05_0125_E1E8.",
+      "status": "active"
+    },
+    {
+      "key": "DENEME-KEY-999",
+      "hwid": "ARKADASININ-HWID-IDSI",
+      "status": "active"
+    }
   ]
 }
-
-
-
-
-
-
-
-
-
